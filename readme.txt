@@ -22,4 +22,4 @@ Simplifies writing to debug.log.
 
 `logit_lover( "Hello World!" );`
 
-`logit_lover( "Here's $my_var: {$my_var}" );`
+`logit_lover( "Here's my_var: {$my_var}" );`
