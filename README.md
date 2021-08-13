@@ -70,11 +70,15 @@ logit_lover($classes[2] . " " . $testVar);
 
 ## Screengrabs
 
-This includes a comparison with using the `var_dump()` function.
+Below is a PHP code snippet that uses Log Lover and thee `var_dump()` function as a comparison.
 
 ![Source Code](screengrabs/php-var-dump-log-lover-code.png)
 
+Below is the `var_dump()` output that displays right on a web page.
+
 ![Var Dump](screengrabs/php-var-dump.png)
+
+Below is the output from Log Lover that's stored in the debug log file.
 
 ![Log Lover Output](screengrabs/log-lover-output.png)
 
